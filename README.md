@@ -41,4 +41,4 @@ You can watch the interactive dashboard demonstration here:
 [Click to Watch E-Commerce Dashboard Video](./1000230812.mp4)
 
 ---
-**Developed by:** Risana| Data Analyst 
+**Developed by:** Risana E K| Data Analyst 
