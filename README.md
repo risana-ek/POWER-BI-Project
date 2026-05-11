@@ -36,19 +36,7 @@ The project uses a **Star Schema** to connect multiple relational tables includi
 
 # 📸 Dashboard Preview<img width="1920" height="1080" alt="Screenshot 2026-05-06 124217" src="https://github.com/user-attachments/assets/2867a4e5-9b79-45fa-a822-c7435f9e3526" />
 
-
-https://github.com/user-attachments/assets/270b81d1-8bc8-453a-a389-6c6f3deb3a66
-
-
-
 https://github.com/user-attachments/assets/be711e5f-1244-48c7-a81e-3827d85600b4
-
-
-
-https://github.com/user-attachments/assets/e7d3e5c1-c708-4c5e-8db2-34bb8250a2f6
-
-
-
 
 You can watch the interactive dashboard demonstration here:
 [Click to Watch E-Commerce Dashboard Video](./1000230812.mp4)
