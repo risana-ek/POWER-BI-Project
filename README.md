@@ -34,6 +34,8 @@ The project uses a **Star Schema** to connect multiple relational tables includi
 2. **Growth Trends:** Identified specific months where marketing campaigns led to a spike in order volume.
 3. **Customer Satisfaction:** Analyzed the average review score (3.67) to identify areas for service improvement.
 
+# 📸 Dashboard Preview
+(Note: Add a screenshot of your Power BI dashboard here to make the README look professional)
 
 
 ---
