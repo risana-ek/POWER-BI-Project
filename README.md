@@ -34,8 +34,7 @@ The project uses a **Star Schema** to connect multiple relational tables includi
 2. **Growth Trends:** Identified specific months where marketing campaigns led to a spike in order volume.
 3. **Customer Satisfaction:** Analyzed the average review score (3.67) to identify areas for service improvement.
 
-# 📸 Dashboard Preview<img width="1920" height="1080" alt="Screenshot 2026-05-06 124217" src="https://github.com/user-attachments/assets/2867a4e5-9b79-45fa-a822-c7435f9e3526" />
-
+# 📸 Dashboard Preview
 https://github.com/user-attachments/assets/be711e5f-1244-48c7-a81e-3827d85600b4
 
 You can watch the interactive dashboard demonstration here:
